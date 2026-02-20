@@ -1,6 +1,6 @@
 # Windy-RemoveWatermark
 
-This Tampermonkey script removes the watermark in windy. It is designed for better experience for windy.
+This Tampermonkey script removes the watermark in Windy. It is designed for better experience for Windy.
 
 ## 📱Compatibility
 
@@ -19,7 +19,7 @@ This Tampermonkey script removes the watermark in windy. It is designed for bett
 
 ## Usage
 
-After installation, visit windy.com page, the watermark should be removed automatically.
+After installation, visit Windy.com page, the watermark should be removed automatically.
 
 ## Contributing
 
@@ -44,9 +44,9 @@ Thanks to all the users and testers who have provided feedback and suggestions t
 
 ## Disclaimer
 
-This script is provided for educational purposes only. It is designed to improve user experience by simplifying the interface of CSDN pages and is intended solely for personal use. The author does not endorse or encourage the use of this script for any activities that may infringe upon the terms of service of CSDN or any other platform.
+This script is provided for educational purposes only. It is designed to improve user experience by simplifying the interface of Windy pages and is intended solely for personal use. The author does not endorse or encourage the use of this script for any activities that may infringe upon the terms of service of Windy or any other platform.
 
 By downloading and using this script, users agree to use it at their own risk. The author shall not be liable for any misuse of the script or any damage that it may cause. Users are responsible for ensuring that their use of the script complies with all applicable laws and terms of service.
 
-This script is not affiliated with, authorized, maintained, sponsored, or endorsed by CSDN or any of its affiliates or subsidiaries. This is an independent and unofficial script. Use at your own risk.
+This script is not affiliated with, authorized, maintained, sponsored, or endorsed by Windy or any of its affiliates or subsidiaries. This is an independent and unofficial script. Use at your own risk.
 
